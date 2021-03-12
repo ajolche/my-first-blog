@@ -1,3 +1,4 @@
+locat_settings.py
 *.pyc
 *~
 /.vscode
